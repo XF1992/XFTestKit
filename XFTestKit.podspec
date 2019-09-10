@@ -24,7 +24,6 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/XF1992/XFTestKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  # s.author           = { 'xiaofei' => '1941630262@qq.com' }
   s.source           = { :git => 'https://github.com/XF1992/XFTestKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
