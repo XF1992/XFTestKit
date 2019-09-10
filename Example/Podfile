@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XFTestKit_Example' do
+  pod 'XFTestKit', :path => '../'
+
+  target 'XFTestKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
