@@ -1,0 +1,16 @@
+PODS:
+  - XFTestKit (0.1.0)
+
+DEPENDENCIES:
+  - XFTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  XFTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XFTestKit: ad5efc35586baef531e1144d1587b02e80f7fe27
+
+PODFILE CHECKSUM: d161e8ad45f43cf572fa4b0dc0663f16993a83d7
+
+COCOAPODS: 1.7.5

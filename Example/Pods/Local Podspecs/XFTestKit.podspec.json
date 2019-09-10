@@ -1,0 +1,22 @@
+{
+  "name": "XFTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of XFTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaofei/XFTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaofei": "1941630262@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaofei/XFTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XFTestKit/Classes/**/*"
+}

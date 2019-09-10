@@ -1,0 +1,6 @@
+framework module XFTestKit {
+  umbrella header "XFTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
