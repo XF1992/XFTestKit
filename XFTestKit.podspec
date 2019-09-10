@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'XFTestKit'
   s.version          = '0.5.0'
-  s.summary          = 'XFTestKit is a simple tool for monitoring and testing under DEBUG mode'
+  s.summary          = 'useful DEBUG tool in Swift'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  XFTestKit is a simple tool for monitoring and testing under DEBUG mode
                        DESC
 
   s.homepage         = 'https://github.com/XF1992/XFTestKit'
