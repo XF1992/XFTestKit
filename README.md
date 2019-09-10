@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'XFTestKit'
 ```
 
-## Author
-
-xiaofei, 1941630262@qq.com
-
 ## License
 
 XFTestKit is available under the MIT license. See the LICENSE file for more info.
